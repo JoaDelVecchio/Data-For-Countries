@@ -1,8 +1,3 @@
-# React + Vite
+# Countries Filter App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This is a simple React application that fetches country data from a REST API and allows users to filter the countries by name. The application demonstrates the use of React hooks (`useState` and `useEffect`) for managing state and side effects, as well as the usage of components and services for a clean code structure.
