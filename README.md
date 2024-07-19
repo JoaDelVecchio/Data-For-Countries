@@ -1,3 +1,3 @@
 # Countries Filter App
 
-This is a simple React application that fetches country data from a REST API and allows users to filter the countries by name. The application demonstrates the use of React hooks (`useState` and `useEffect`) for managing state and side effects, as well as the usage of components and services for a clean code structure.
+The Countries Filter App fetches a list of countries from an external API and displays them. Users can filter the countries by typing into an input field, which dynamically updates the displayed list based on the user's input. This app is built with React and demonstrates the use of functional components and hooks for state management and side effects.
